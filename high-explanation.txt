@@ -1,0 +1,3 @@
+eyJhbGci - The start of a jwt token, can be used to login as users
+extension:sql mysql dump - db are rare but usually interesting
+filename:.bash_history - there's no reason for this to be here, so its probably interesting
