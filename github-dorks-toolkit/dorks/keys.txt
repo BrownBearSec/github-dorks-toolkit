@@ -1,0 +1,176 @@
+access_key
+algolia_admin_key
+algolia_api_key
+alicloud_access_key
+amazon_secret_access_key
+aos_key
+api_key
+apikey
+“api keys”
+api_key_secret
+api_key_sid
+app.config['SECRET_KEY'] extension:py
+app_key
+appkey
+appkeysecret
+application_key
+app.secret_key extension=py
+aws_access_key_id
+aws_access_key_id 
+aws_key
+aws_secret_access_key
+aws_secret_key
+AWSSecretKey
+b2_app_key
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+-----BEGIN PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
+bintray_apikey
+bintray_key
+bintraykey
+bluemix_api_key
+browserstack_access_key
+bucketeer_aws_access_key_id
+bucketeer_aws_secret_access_key
+built_branch_deploy_key
+cache_s3_secret_key
+cattle_access_key
+cattle_secret_key
+client_zpk_secret_key
+cloud_api_key
+cloudflare_api_key 
+cloudflare_api_key
+cloudflare_auth_key
+cloud_watch_aws_access_key
+consumer_key
+cypress_record_key
+datadog_api_key
+datadog_app_key
+digitalocean_ssh_key_body
+digitalocean_ssh_key_ids
+docker_key
+dynamoaccesskeyid
+dynamosecretaccesskey
+encryption_key
+env.heroku_api_key
+eureka.awssecretkey
+filename:credentials aws_access_key_id
+filename:idea14.key
+filename:master.key path:config
+filename:mega-recoverykey.txt
+filename:settings.py SECRET_KEY
+flickr_api_key
+fossa_api_key
+gh_api_key
+ghost_api_key
+GiHub Dorks for Finding API Keys, Tokens and Passwords
+github_api_key
+github_key
+google_maps_api_key
+google_private_key
+google_server_key
+gpg_key_name
+gpg_keyname
+HEROKU_API_KEY language:json
+HEROKU_API_KEY language:shell
+jwt_client_secret_key
+jwt_lookup_secert_key
+jwt_secret_key
+jwt_web_secert_key
+jwt_xmpp_secert_key
+key
+keyPassword
+linux_signing_key
+ll_shared_key
+lottie_happo_api_key
+lottie_happo_secret_key
+lottie_s3_api_key
+lottie_s3_secret_key
+mailchimp_api_key
+mailchimp_key
+mailgun apikey
+mailgun_key
+mailgun_priv_key
+mailgun_secret_api_key
+manage_key
+mandrill_api_key
+mapbox api key
+master_key
+mg_api_key
+mg_public_api_key
+mh_apikey
+mile_zero_key
+minio_access_key
+minio_secret_key
+mix_pusher_app_key
+netlify_api_key
+node_pre_gyp_accesskeyid
+node_pre_gyp_secretaccesskey
+npm_api_key
+npm_secret_key
+nuget_api_key
+nuget_apikey
+nuget_key
+okta_key
+omise_key
+onesignal_api_key
+onesignal_user_auth_key
+openwhisk_key
+pagerduty_apikey
+parse_js_key
+personal_key
+plotly_apikey
+private_key
+prod.access.key.id
+prod.secret.key
+publish_key
+rest_api_key
+rinkeby_private_key
+ropsten_private_key
+route53_access_key_id
+rtd_key_pass
+s3_access_key
+s3_access_key_id
+s3_key
+s3_key_app_logs
+s3_key_assets
+sandbox_aws_access_key_id
+sandbox_aws_secret_access_key
+sauce_access_key
+secret_access_key
+secret access key
+secret_key
+secret_key_base
+sendgrid_api_key
+sendgrid_key
+send.keys
+send_keys
+sendkeys
+ses_access_key
+ses_secret_key
+setdstaccesskey
+setsecretkey
+shodan_api_key language:json
+shodan_api_key language:python
+shodan_api_key language:ruby
+shodan_api_key language:shell
+signing_key_password
+signing_key_secret
+slack_key
+slash_developer_space_key
+sonar_organization_key
+sonar_project_key
+sqsaccesskey
+stormpath_api_key_id
+stormpath_api_key_secret
+stripe_key
+strip_key
+strip_secret_key
+tesco_api_key
+tester_keys_password
+thera_oss_access_key
+twilio_api_key
+twitterKey
+x-api-key
+zendesk_key
+zen_key
