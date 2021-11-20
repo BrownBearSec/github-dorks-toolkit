@@ -1,0 +1,23 @@
+amazonaws
+aws_access
+aws_access_key_id
+aws_access_key_id 
+aws_bucket
+aws_key
+aws_secret
+aws_secret_access_key
+aws_secret_key
+AWSSecretKey
+aws_token
+bucketeer_aws_access_key_id
+bucketeer_aws_secret_access_key
+cloud_watch_aws_access_key
+eureka.awssecretkey
+filename:.bash_profile aws
+filename:credentials aws_access_key_id
+rds.amazonaws.com password
+sandbox_aws_access_key_id
+sandbox_aws_secret_access_key
+amazonaws
+amazon_secret_access_key
+rds.amazonaws.com password
