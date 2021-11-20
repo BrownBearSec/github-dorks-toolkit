@@ -1,3 +1,0 @@
-eyJhbGci
-extension:sql mysql dump
-filename:.bash_history
