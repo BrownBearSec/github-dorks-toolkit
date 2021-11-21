@@ -107,3 +107,4 @@ twilio_api_sid
 twilio_api_token
 x-api-key
 zendesk_api_token
+HO_API_KEY

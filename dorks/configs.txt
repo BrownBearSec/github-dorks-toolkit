@@ -25,3 +25,4 @@ filename:.s3cfg
 filename:s3cfg
 filename:server.cfg
 filename:server.cfg rcon password
+env.yml
