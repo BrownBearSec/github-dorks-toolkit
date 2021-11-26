@@ -3,3 +3,6 @@ extension:sql mysql dump
 filename:.bash_history
 cfproddb
 env.yml
+"remove password"
+"removed password"
+filename:sftp-config.json password 

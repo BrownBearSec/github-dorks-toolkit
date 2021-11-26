@@ -1,3 +1,8 @@
 eyJhbGci - The start of a jwt token, can be used to login as users
 extension:sql mysql dump - db are rare but usually interesting
 filename:.bash_history - there's no reason for this to be here, so its probably interesting
+cfproddb - db name seen in wild, rare but good
+env.yml - file containing names passwords and other secrets (often false positives)
+"remove password" - comments containing this may illude to passwords
+"remove password" - good for commit history
+filename:sftp-config.json password - this is just a nice config file

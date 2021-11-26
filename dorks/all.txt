@@ -594,3 +594,4 @@ cfproddb
 env.yml
 \.sh
 .sh
+filename:sftp-config.json password
